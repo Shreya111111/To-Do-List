@@ -1,6 +1,5 @@
 # To-Do-List
-
-![Screenshot (1)](https://user-images.githubusercontent.com/95047638/224391494-d1ab18dc-7ff4-4775-b10a-2f6d8cdde609.png)
+A clean and completely functional version of a todo application built using react hooks
 
 # Updating the list
 
